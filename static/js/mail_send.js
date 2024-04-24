@@ -69,5 +69,4 @@ function send_mail() {
             }
         }
     });
-
 }

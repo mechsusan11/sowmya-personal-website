@@ -338,7 +338,7 @@
 		            loop:true,
 		            strings: [
 		              'Security Auditor',
-		              'GRC Expert'
+		              'GRC Professional'
 		            ],
 		            breakLines: false
 		        }); 
